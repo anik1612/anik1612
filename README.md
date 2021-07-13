@@ -1,6 +1,6 @@
 ### Hi there, i'm [Anik Sarker]👋 
 
-- 🔭 I’m currently working as a freelancer
+- 🔭 I’m currently working as a web developer
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate with other open source project
 - 💬 Ask me about tech stuff
