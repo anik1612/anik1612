@@ -1,6 +1,6 @@
 ### Hi there, i'm [Anik Sarker]👋 
 
-- 🔭 I’m currently working in [Xi'an Edison Information Technology Co., Ltd.]
+- 🔭 I’m currently working at [Xi'an Edison Information Technology Co., Ltd.]
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate with other open source project
 - 💬 Ask me about tech stuff
