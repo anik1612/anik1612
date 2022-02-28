@@ -1,6 +1,7 @@
 ### Hi there, i'm [Anik Sarker]👋 
 
-- 🔭 I’m currently working as Freelancer Web Developer
+- 🔭 I’m currently working as a Web Developer in [TRIENPONT INTERNATIONAL CO. LTD
+](https://www.trienpont.com/)
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate with other open source project
 - 💬 Ask me about tech stuff
