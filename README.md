@@ -57,4 +57,3 @@
 [facebook]: https://www.facebook.com/AnikSarker1612
 [medium]: https://medium.com/@aniksarker1612
 [github]: https://github.com/anik1612
-[Xi'an Edison Information Technology Co., Ltd.]: http://www.edisons.cn
