@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate with other open source project
 - 💬 Ask me about tech stuff
-- 🥅 2022 Goals: Learn Backend Technology
+- 🥅 2023 Goals: Learn Data Structure & Algorithm
 - ⚡ Fun fact: listening musics for 10 hours every day 🎶🎶🎶
                 
 
