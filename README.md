@@ -3,10 +3,10 @@
 - 🔭 I’m currently working as a Full Stack Developer in [TRIENPONT INTERNATIONAL CO. LTD
 ](https://www.trienpont.com/)
 - 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate with other open source project
+- 👯 I’m looking to collaborate with other open source projects
 - 💬 Ask me about tech stuff
-- 🥅 2023 Goals: Learn Data Structure & Algorithm
-- ⚡ Fun fact: listening musics for 10 hours every day 🎶🎶🎶
+- 🥅 2024 Goals: Learn Data Structure & Algorithm
+- ⚡ Fun fact: listening music for 10 hours every day 🎶🎶🎶
                 
 
 
