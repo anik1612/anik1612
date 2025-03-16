@@ -96,5 +96,4 @@ I am available for freelance and contract work. If you need a **full-stack devel
 
 Feel free to reach out for **collaborations**, **inquiries**, or just to connect. I'm open to new opportunities and would love to hear from you! ✨
 
-📩 **Email:** [anik1612@gmail.com](mailto:anik1612@gmail.com)  
 🌐 **Portfolio:** [https://anik-sarker.vercel.app](https://anik-sarker.vercel.app)  
