@@ -1,6 +1,6 @@
 ### Hi there, I'm Anik Sarker! 🚀
 
-#### 💻 Software Engineer | Full Stack Developer | AI Enthusiast | DevOps Specialist | Open Source Contributor | Mobile Developer | CMS Expert
+#### 💻 Software Engineer | Full Stack Developer | AI Enthusiast | DevOps Specialist | Open Source Contributor | Mobile Developer
 
 ---
 
