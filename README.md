@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working as a **Full Stack Developer at ONIFY TECH**
+- 🔭 Currently working as a **Full Stack Developer at [ONIFY TECH](https://www.onifytech.com/)**
 - 🌱 Passionate about **Web Development, DevOps, AI, and Machine Learning**
 - 🎯 2025 Goal: **Master Machine Learning & Data Science**
 - 🤖 Exploring **AI-powered applications and automation**
