@@ -66,9 +66,10 @@
 
 ![Anik's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=anik1612&theme=tokyonight&hide_border=true)
 
-![Anik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anik1612&show_icons=true&theme=tokyonight)
+![Anik's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anik1612&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anik1612&layout=compact&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anik1612&theme=tokyonight)
+
 
 ---
 
